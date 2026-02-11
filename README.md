@@ -1,4 +1,4 @@
-# New-York-AirBnb-Listing-Python-Project
+
 ### Airbnb Listings EDA Project: New York 2024  
 
 ---
